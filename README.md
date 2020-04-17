@@ -4,3 +4,4 @@ This reprositry is made during the lockdown for Covid-19. I am doing small proje
 Emojy:https://rajshashwat.github.io/COVID_LOCKDOWN_PROJECT/Emojy/index.html
 DigitalClock:https://rajshashwat.github.io/COVID_LOCKDOWN_PROJECT/DigitalClock/DigitalClock.html
 Countdown:https://rajshashwat.github.io/COVID_LOCKDOWN_PROJECT/Countdown/CountDown.html
+Loop Rings::https://rajshashwat.github.io/COVID_LOCKDOWN_PROJECT/LoopRings/LoopRing.html
